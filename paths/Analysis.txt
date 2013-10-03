@@ -1,0 +1,9 @@
+Time Take: 40134.240809 //v=DYNAMIC
+
+Time Take: 30073.06191 //v=D, i+=10
+
+Time Take: 37695.03868 //v=0.75
+
+Time Take: 40098.417477 //v=0.7
+
+Time Take: 46553.746192 //v=0.6
